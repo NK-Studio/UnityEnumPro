@@ -1,6 +1,6 @@
 #EnumPro  
 
-해당 에셋은 Enum의 Extention을 제공합니다.
+해당 에셋은 Enum의 Extension을 제공합니다.
 
 C#에서 Enum을 사용하다보면, Int 이외 Float, String, Bool을 수록하고 싶은 경우가 있습니다.
 이를 해당 에셋을 통해 구현할 수 있습니다.
