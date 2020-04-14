@@ -1,0 +1,8 @@
+{
+  "name": "com.unity.nkstudio.enumpro",
+  "displayName": "EnumPro",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "description": "Enum\uc744 \uc0ac\uc6a9\ud558\ub294\ub370, \uc815\uc218 \uc774\uc678\uc5d0\ub3c4 String, Float, Bool\uc744\n\uc218\ub85d\ud558\uace0 \uc2f6\uc740 \uacbd\uc6b0\uac00 \uc788\ub2e4.\n\n\ud574\ub2f9 \uc5d0\uc14b\uc740 \uadf8\ub7ec\ud55c \ubd80\ubd84\uc744 \uc11c\ud3ec\ud305\ud574\uc900\ub2e4.",
+  "type": "library"
+}
